@@ -1,6 +1,6 @@
 # Eric Paul Michael Francis
 
-[Columbia, Missouri]  
+Columbia, Missouri  
 Email: [your.email@example.com]  
 Phone: [Your Phone Number]  
 LinkedIn: [LinkedIn Profile URL]  
