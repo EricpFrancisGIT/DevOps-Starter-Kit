@@ -69,31 +69,34 @@ Entry-level DevOps Engineer transitioning from VMWare Administration with a pass
 
 ## EXPERIENCE
 
-*Optional section if you want to highlight transferable experience. Replace if applicable.*
+### Lead, Infrastructure Specialist  
+**Kyndryl** — Columbia, Missouri  
+*August 2021 - Present*
 
-### [Previous Job Title]  
-**[Company Name]** — [City, State]  
-*[Start Date] - [End Date]*
-
-- [Responsibility that shows communication, attention to detail, or automation]  
-- [Responsibility that demonstrates working under pressure, collaboration, or troubleshooting]  
-- [Responsibility related to process improvement, documentation, or technology exposure]  
+- coordination of patching Windows AWS EC2 instances within different environments (Shared/Dev/Prod) for City of Chicago, collecting patching evidence and remediating any open advisories, advising application owners and city personnel as to status 
+- creating and allocating storage datastores in vSphere environment along with updating ESXI hosts and associated VMWare packages on a quarterly basis while handling requests for City of Chicago assets. 
+- documenting processes and procedures for team personnel regarding different AWS services in use within City Of Chicago, making recommendations for additional services should they be needed to Chief System Architect.  
 
 ---
 
 ## EDUCATION
 
 **High School Diploma**  
-[High School Name], [City, State] — [Year]
+Hopkins High School, Minnetonka, Minnesota — 1997
 
-**[Optional] Bachelor of Science, [Your Major]**  
-[University Name], [City, State] — [Year]
+**Bachelor of Science, Information Technology**  
+Colorado Technical University, Colorado Springs, Colorado — 2011
+
+**Master of Science, Cloud Computing Architecture**  
+University of Maryland, Adelphi, Maryland — 2020
 
 ---
 
 ## CERTIFICATIONS
 
-- AWS Certified Cloud Practitioner – *In Progress or Completed*  
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- AWS SysOps Administrator - *In Progress*
 - AWS Certified Developer – Associate – *In Progress*  
-- Certified AI Practitioner (CAIP) – *In Progress*  
+- Certified AI Practitioner (CAIP) – *Planned*  
 - HashiCorp Certified: Terraform Associate – *Planned*  
