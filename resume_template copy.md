@@ -1,10 +1,10 @@
 # Eric Paul Michael Francis
 
-Columbia, Missouri
-Email: eric.francis1103@gmail.com 
-Phone: 573-268-0802  
-LinkedIn: [\https://www.linkedin.com/in/eric-francis-ms/] 
-GitHub: [\[EricpFrancisGIT\]] 
+[Columbia, Missouri]
+[Email: eric.francis1103@gmail.com] 
+[Phone: 573-268-0802]  
+LinkedIn: [https://www.linkedin.com/in/eric-francis-ms] 
+GitHub: [EricpFrancisGIT]
 
 ---
 
