@@ -2,7 +2,7 @@
 
 Columbia, Missouri  
 Email: eric.francis1103@gmail.com  
-Phone: [Your Phone Number]  
+Phone: 573-268-0802  
 LinkedIn: [LinkedIn Profile URL]  
 GitHub: [GitHub Username]  
 
