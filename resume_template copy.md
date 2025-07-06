@@ -3,8 +3,8 @@
 Columbia, Missouri
 Email: eric.francis1103@gmail.com 
 Phone: 573-268-0802  
-LinkedIn: [\[LinkedIn Profile URL\]](https://www.linkedin.com/in/eric-francis-ms/)  
-GitHub: [\[GitHub Username\]](https://github.com/EricpFrancisGIT)  
+LinkedIn: [\https://www.linkedin.com/in/eric-francis-ms/] 
+GitHub: [\[EricpFrancisGIT\]] 
 
 ---
 
